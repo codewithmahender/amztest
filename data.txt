@@ -1,1 +1,9 @@
 this is dummy file
+
+Explanation: In this example, the string reference "s" is null. When the program tries to call the length() method, it throws a NullPointerException because there is no actual object.
+Use case of Null
+
+The null value serves as a placeholder and it indicates that no value is assigned to a reference variable. Common applications include:
+
+    Linked Data Structures: It represents the end of a list or tree branch.
+    Design Patterns: This is used in patterns like the Null Object Pattern or Singleton Pattern.
